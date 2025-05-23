@@ -1,0 +1,5 @@
+<select>
+  <option *ngFor="let cliente of listaClientes" [value]="cliente.id">
+    {{ cliente.razonSocial }}
+  </option>
+</select>
