@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\bin\Debug\netcoreapp3.1\BusinessLogic.PruebaMP.deps.json
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\bin\Debug\netcoreapp3.1\BusinessLogic.PruebaMP.dll
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\bin\Debug\netcoreapp3.1\BusinessLogic.PruebaMP.pdb
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\bin\Debug\netcoreapp3.1\DataAccess.PruebaMP.dll
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\bin\Debug\netcoreapp3.1\Entity.PruebaMP.dll
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\bin\Debug\netcoreapp3.1\DataAccess.PruebaMP.pdb
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\bin\Debug\netcoreapp3.1\Entity.PruebaMP.pdb
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\obj\Debug\netcoreapp3.1\BusinessLogic.PruebaMP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\obj\Debug\netcoreapp3.1\BusinessLogic.PruebaMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\obj\Debug\netcoreapp3.1\BusinessLogic.PruebaMP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\obj\Debug\netcoreapp3.1\BusinessLogic.PruebaMP.AssemblyInfo.cs
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\obj\Debug\netcoreapp3.1\BusinessLogic.PruebaMP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\obj\Debug\netcoreapp3.1\Business.06F43E74.Up2Date
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\obj\Debug\netcoreapp3.1\BusinessLogic.PruebaMP.dll
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\BusinessLogic.PruebaMP\obj\Debug\netcoreapp3.1\BusinessLogic.PruebaMP.pdb

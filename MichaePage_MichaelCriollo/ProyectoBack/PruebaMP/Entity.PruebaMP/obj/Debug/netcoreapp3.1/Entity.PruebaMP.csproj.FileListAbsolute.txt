@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\Entity.PruebaMP\bin\Debug\netcoreapp3.1\Entity.PruebaMP.deps.json
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\Entity.PruebaMP\bin\Debug\netcoreapp3.1\Entity.PruebaMP.dll
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\Entity.PruebaMP\bin\Debug\netcoreapp3.1\Entity.PruebaMP.pdb
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\Entity.PruebaMP\obj\Debug\netcoreapp3.1\Entity.PruebaMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\Entity.PruebaMP\obj\Debug\netcoreapp3.1\Entity.PruebaMP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\Entity.PruebaMP\obj\Debug\netcoreapp3.1\Entity.PruebaMP.AssemblyInfo.cs
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\Entity.PruebaMP\obj\Debug\netcoreapp3.1\Entity.PruebaMP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\Entity.PruebaMP\obj\Debug\netcoreapp3.1\Entity.PruebaMP.dll
+C:\Users\User\Desktop\MichaePage_MichaelCriollo\ProyectoBack\PruebaMP\Entity.PruebaMP\obj\Debug\netcoreapp3.1\Entity.PruebaMP.pdb
